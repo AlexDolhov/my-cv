@@ -135,6 +135,7 @@ a {
 .my-projects-link {
   color: #fb6d3a;
   font-weight: bold;
+  text-decoration: underline;
 }
 
 /* My work experience section */
@@ -211,10 +212,16 @@ a {
   font-size: 18px;
   line-height: 1.5;
   margin-bottom: 10px;
+  text-decoration: none;
 }
+
+/* .my-education-item-link {
+  text-decoration: underline;
+} */
 
 .my-education-spesialization {
   color: #fb6d3a;
+  text-decoration: none;
 }
 
 .my-education-period {
@@ -282,10 +289,10 @@ a {
   font-weight: normal;
   font-size: 16px;
   line-height: 1.5;
+  text-decoration: underline;
 }
 
 .connect-section-icon {
-  /* background-color: #fb6d3a; */
   fill: #fb6d3a;
 }
 
