@@ -280,6 +280,15 @@ a {
   align-self: baseline;
 }
 
+.contacts-section-phone,
+.contacts-section-adress {
+  color: white;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
 .contacts-section-link {
   /* color: #565e6a; */
   /* color: #8e949c; */
