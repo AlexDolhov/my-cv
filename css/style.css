@@ -43,7 +43,7 @@ a {
 .main-container {
   display: flex;
   flex-direction: row-reverse;
-  width: 1200px;
+  width: 1400px;
   background-color: white;
   /* margin: 40px auto; */
   margin-left: auto;
@@ -54,7 +54,7 @@ a {
 /* Main content section */
 
 .main-content-section {
-  padding: 70px 60px;
+  padding: 50px 50px;
 }
 
 .main-content-title {
@@ -72,7 +72,7 @@ a {
 .about-me-section,
 .my-projects-section,
 .work-experience-section {
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 .about-me-name {
   color: #000;
@@ -245,7 +245,7 @@ a {
 .sidebar-section {
   /* background-color: #1e2939; */
   background-color: #808080;
-  min-width: 350px;
+  min-width: 320px;
 }
 
 .contacts-section,
