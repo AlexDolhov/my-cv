@@ -43,7 +43,7 @@ a {
 .main-container {
   display: flex;
   flex-direction: row-reverse;
-  width: 1300px;
+  width: 1280px;
   background-color: white;
   /* margin: 40px auto; */
   margin-left: auto;
